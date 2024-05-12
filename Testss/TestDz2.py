@@ -16,6 +16,6 @@ def test_step1dz():
     assert "7z l arx2.7z", "test FAIL"
 
 def test_step2dz():
-    # testdz2
+    # testdz2.
     res = checkout("cd {}; 7z x arx2.7z -o{}/folder2".format(folder_out, folder_out), "Everything is Ok")
     assert res, "test2 FAIL"

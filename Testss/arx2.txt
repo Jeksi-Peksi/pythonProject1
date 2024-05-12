@@ -1,0 +1,36 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,3 CPUs 12th Gen Intel(R) Core(TM) i5-12400F (90672),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2004 bytes (2 KiB)
+
+Listing archive: arx2.7z
+
+--
+Path = arx2.7z
+Type = 7z
+Physical Size = 2004
+Headers Size = 418
+Method = LZMA2:6k
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-05-10 19:09:55 D....            0            0  .pytest_cache
+2024-05-10 19:09:55 D....            0            0  .pytest_cache/v
+2024-05-10 19:09:55 D....            0            0  .pytest_cache/v/cache
+2024-05-10 20:18:58 D....            0            0  __pycache__
+2024-05-10 19:09:55 ....A           37         1586  .pytest_cache/.gitignore
+2024-05-10 19:09:55 ....A          191               .pytest_cache/CACHEDIR.TAG
+2024-05-10 19:09:55 ....A          302               .pytest_cache/README.md
+2024-05-10 20:09:23 ....A            2               .pytest_cache/v/cache/lastfailed
+2024-05-10 20:10:48 ....A          137               .pytest_cache/v/cache/nodeids
+2024-05-10 20:10:48 ....A            2               .pytest_cache/v/cache/stepwise
+2024-05-10 20:18:58 ....A         1751               __pycache__/test7z.cpython-310-pytest-8.2.0.pyc
+2024-05-10 19:58:42 ....A         1276               __pycache__/test7z.cpython-310.pyc
+2024-05-10 20:10:48 ....A           32               arx2.7z
+2024-05-10 20:18:57 ....A          875               test7z.py
+------------------- ----- ------------ ------------  ------------------------
+2024-05-10 20:18:58               4605         1586  10 files, 4 folders
